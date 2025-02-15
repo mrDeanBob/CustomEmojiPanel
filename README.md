@@ -7,7 +7,7 @@ A personal project created with assistance from chatgpt, with the specific aim o
 1. Create and test emoji combinations based on your personal servers' emojis, or those of your choice
 2. Circumvent the locks on emojis in the absence of discord nitro, may require a bot that can convert the :emojis: ( one example is [NQN](https://nqn.blue/) )
 
-.. image:: ./blob/demo.gif
+![demo](https://github.com/profDean/CustomEmojiPanel/blob/demo.gif?raw=true)
 
 to use this for yourself, you need to consider the example folder structure as follows:
 
