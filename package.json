@@ -1,0 +1,12 @@
+{
+  "name": "emoji-updater-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "electron": "^23.0.0"
+  }
+}
